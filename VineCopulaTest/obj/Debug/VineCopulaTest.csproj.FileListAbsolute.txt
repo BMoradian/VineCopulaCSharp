@@ -1,0 +1,9 @@
+E:\Projects\VineCopula_CPPCLI\VineCopulaTest\bin\Debug\VineCopulaTest.exe.config
+E:\Projects\VineCopula_CPPCLI\VineCopulaTest\bin\Debug\VineCopulaTest.exe
+E:\Projects\VineCopula_CPPCLI\VineCopulaTest\bin\Debug\VineCopulaTest.pdb
+E:\Projects\VineCopula_CPPCLI\VineCopulaTest\bin\Debug\VineCopulaWrapper.dll
+E:\Projects\VineCopula_CPPCLI\VineCopulaTest\obj\Debug\VineCopulaTest.csproj.CoreCompileInputs.cache
+E:\Projects\VineCopula_CPPCLI\VineCopulaTest\obj\Debug\VineCopulaTest.csproj.CopyComplete
+E:\Projects\VineCopula_CPPCLI\VineCopulaTest\obj\Debug\VineCopulaTest.exe
+E:\Projects\VineCopula_CPPCLI\VineCopulaTest\obj\Debug\VineCopulaTest.pdb
+E:\Projects\VineCopula_CPPCLI\VineCopulaTest\obj\Debug\VineCopulaTest.csprojAssemblyReference.cache

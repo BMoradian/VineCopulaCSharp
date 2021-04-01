@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VinCopulaDll", "VinCopulaDll\VinCopulaDll.vcxproj", "{B70B7EF1-2E6A-4F48-8145-0D521EC9DEEB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VineCopulaWrapper", "VineCopulaWrapper\VineCopulaWrapper.vcxproj", "{F48A7109-70E7-4C27-B3C0-EC0D6DDF0C31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VineCopulaTest", "VineCopulaTest\VineCopulaTest.csproj", "{3B34D016-514F-4805-9B4A-9378F54A805F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B70B7EF1-2E6A-4F48-8145-0D521EC9DEEB}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B70B7EF1-2E6A-4F48-8145-0D521EC9DEEB}.Debug|x64.ActiveCfg = Debug|x64
+		{B70B7EF1-2E6A-4F48-8145-0D521EC9DEEB}.Debug|x64.Build.0 = Debug|x64
+		{B70B7EF1-2E6A-4F48-8145-0D521EC9DEEB}.Debug|x86.ActiveCfg = Debug|Win32
+		{B70B7EF1-2E6A-4F48-8145-0D521EC9DEEB}.Debug|x86.Build.0 = Debug|Win32
+		{B70B7EF1-2E6A-4F48-8145-0D521EC9DEEB}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B70B7EF1-2E6A-4F48-8145-0D521EC9DEEB}.Release|x64.ActiveCfg = Release|x64
+		{B70B7EF1-2E6A-4F48-8145-0D521EC9DEEB}.Release|x64.Build.0 = Release|x64
+		{B70B7EF1-2E6A-4F48-8145-0D521EC9DEEB}.Release|x86.ActiveCfg = Release|Win32
+		{B70B7EF1-2E6A-4F48-8145-0D521EC9DEEB}.Release|x86.Build.0 = Release|Win32
+		{F48A7109-70E7-4C27-B3C0-EC0D6DDF0C31}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{F48A7109-70E7-4C27-B3C0-EC0D6DDF0C31}.Debug|x64.ActiveCfg = Debug|x64
+		{F48A7109-70E7-4C27-B3C0-EC0D6DDF0C31}.Debug|x64.Build.0 = Debug|x64
+		{F48A7109-70E7-4C27-B3C0-EC0D6DDF0C31}.Debug|x86.ActiveCfg = Debug|Win32
+		{F48A7109-70E7-4C27-B3C0-EC0D6DDF0C31}.Debug|x86.Build.0 = Debug|Win32
+		{F48A7109-70E7-4C27-B3C0-EC0D6DDF0C31}.Release|Any CPU.ActiveCfg = Release|Win32
+		{F48A7109-70E7-4C27-B3C0-EC0D6DDF0C31}.Release|x64.ActiveCfg = Release|x64
+		{F48A7109-70E7-4C27-B3C0-EC0D6DDF0C31}.Release|x64.Build.0 = Release|x64
+		{F48A7109-70E7-4C27-B3C0-EC0D6DDF0C31}.Release|x86.ActiveCfg = Release|Win32
+		{F48A7109-70E7-4C27-B3C0-EC0D6DDF0C31}.Release|x86.Build.0 = Release|Win32
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Debug|x64.Build.0 = Debug|Any CPU
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Debug|x86.Build.0 = Debug|Any CPU
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Release|x64.ActiveCfg = Release|Any CPU
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Release|x64.Build.0 = Release|Any CPU
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Release|x86.ActiveCfg = Release|Any CPU
+		{3B34D016-514F-4805-9B4A-9378F54A805F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C419DC-5E6A-4E30-8090-965FA0E43A35}
+	EndGlobalSection
+EndGlobal

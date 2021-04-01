@@ -1,0 +1,98 @@
+﻿  pch.cpp
+  cdvine.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\cdvine.c(47,14): warning C4013: 'GetRNGstate' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\cdvine.c(81,38): warning C4013: 'runif' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\cdvine.c(143,14): warning C4013: 'PutRNGstate' undefined; assuming extern returning int
+  condsim.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\condsim.c(52,14): warning C4013: 'GetRNGstate' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\condsim.c(97,22): warning C4013: 'runif' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\condsim.c(132,14): warning C4013: 'PutRNGstate' undefined; assuming extern returning int
+  deriv.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\deriv.c(148,23): warning C4013: 'qnorm' undefined; assuming extern returning int
+  deriv2.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\deriv2.c(141,23): warning C4013: 'qnorm' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\deriv2.c(497,21): warning C4013: 'dnorm' undefined; assuming extern returning int
+  evCopula.c
+  gof.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\gof.c(286,24): warning C4013: 'qnorm' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\gof.c(321,13): warning C4013: 'GetRNGstate' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\gof.c(330,38): warning C4013: 'runif' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\gof.c(356,13): warning C4013: 'PutRNGstate' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\gof.c(403,19): warning C4013: 'pchisq' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\gof.c(507,30): warning C4013: 'unif_rand' undefined; assuming extern returning int
+  hfunc.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(440,27): warning C4013: 'qnorm' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(442,33): warning C4013: 'pnorm' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(451,24): warning C4013: 'qt' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(452,26): warning C4013: 'pt' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(763,26): warning C4013: 'qgamma' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(1336,31): warning C4013: 'pgamma' undefined; assuming extern returning int
+  hfuncderiv.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfuncderiv.c(181,21): warning C4013: 'qnorm' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfuncderiv.c(187,21): warning C4013: 'dnorm' undefined; assuming extern returning int
+  hfuncderiv2.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfuncderiv2.c(162,21): warning C4013: 'qnorm' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfuncderiv2.c(164,21): warning C4013: 'dnorm' undefined; assuming extern returning int
+  incompleteBeta.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\incompleteBeta.c(223,13): warning C4013: 'lbeta' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\incompleteBeta.c(224,13): warning C4013: 'digamma' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\incompleteBeta.c(225,15): warning C4013: 'trigamma' undefined; assuming extern returning int
+  likelihood.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\likelihood.c(161,26): warning C4013: 'qgamma' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\likelihood.c(164,34): warning C4013: 'pgamma' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\likelihood.c(477,23): warning C4013: 'qnorm' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\likelihood.c(490,20): warning C4013: 'qt' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\likelihood.c(491,93): warning C4013: 'dt' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\likelihood.c(903,24): warning C4013: 'gammafn' undefined; assuming extern returning int
+  logderiv.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\logderiv.c(58,10): warning C4013: 'qt' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\logderiv.c(105,12): warning C4013: 'digamma' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\logderiv.c(210,17): warning C4013: 'trigamma' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\logderiv.c(398,14): warning C4013: 'qnorm' undefined; assuming extern returning int
+  memoryhandling.c
+  pit.c
+  rvine.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\rvine.c(605,16): warning C4013: 'GetRNGstate' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\rvine.c(652,56): warning C4013: 'runif' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\rvine.c(704,16): warning C4013: 'PutRNGstate' undefined; assuming extern returning int
+  rvinederiv.c
+  rvinederiv2.c
+  rvinesample.c
+  tcopuladeriv.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tcopuladeriv.c(45,10): warning C4013: 'qt' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tcopuladeriv.c(380,10): warning C4013: 'dt' undefined; assuming extern returning int
+  tcopuladeriv_new.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tcopuladeriv_new.c(53,7): warning C4013: 'dt' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tcopuladeriv_new.c(60,9): warning C4013: 'beta' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tcopuladeriv_new.c(98,15): warning C4013: 'pbeta' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tcopuladeriv_new.c(182,12): warning C4013: 'digamma' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tcopuladeriv_new.c(324,8): warning C4013: 'qt' undefined; assuming extern returning int
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tcopuladeriv_new.c(416,17): warning C4013: 'trigamma' undefined; assuming extern returning int
+  Generating Code...
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tcopuladeriv_new.c(1170): warning C4716: 'beta': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tcopuladeriv_new.c(1175): warning C4716: 'pbeta': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\likelihood.c(1518): warning C4716: 'dt': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\likelihood.c(1523): warning C4716: 'gammafn': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\incompleteBeta.c(463): warning C4716: 'digamma': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\incompleteBeta.c(468): warning C4716: 'lbeta': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\incompleteBeta.c(474): warning C4716: 'trigamma': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(1458): warning C4716: 'pgamma': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(1463): warning C4716: 'pnorm': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(1468): warning C4716: 'qnorm': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(1473): warning C4716: 'pt': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(1478): warning C4716: 'qt': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\hfunc.c(1484): warning C4716: 'qgamma': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\gof.c(770): warning C4716: 'pchisq': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\gof.c(775): warning C4716: 'unif_rand': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\deriv2.c(1321): warning C4716: 'dnorm': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\cdvine.c(628): warning C4716: 'runif': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\cdvine.c(623): warning C4716: 'PutRNGstate': must return a value
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\cdvine.c(617): warning C4716: 'GetRNGstate': must return a value
+  Compiling...
+  tools.c
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tools.c(43,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Projects\VineCopula_CPPCLI\VinCopulaDll\tools.c(49,19): warning C4013: 'gammafn' undefined; assuming extern returning int
+  Generating Code...
+  dllmain.cpp
+     Creating library E:\Projects\VineCopula_CPPCLI\VinCopulaDll\Debug\VinCopulaDll.lib and object E:\Projects\VineCopula_CPPCLI\VinCopulaDll\Debug\VinCopulaDll.exp
+  VinCopulaDll.vcxproj -> E:\Projects\VineCopula_CPPCLI\VinCopulaDll\Debug\VinCopulaDll.dll
